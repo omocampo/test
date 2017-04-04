@@ -1,0 +1,5 @@
+projectKey=my:Report
+serverUrl=http://192.168.0.7:9000
+dashboardUrl=http://192.168.0.7:9000/dashboard/index/my:Report
+ceTaskId=AVs3EATmLRHciP4RoSQ5
+ceTaskUrl=http://192.168.0.7:9000/api/ce/task?id=AVs3EATmLRHciP4RoSQ5

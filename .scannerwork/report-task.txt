@@ -1,0 +1,5 @@
+projectKey=my:Report
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/my:Report
+ceTaskId=AVrec9K6L5DqGLwVl07C
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVrec9K6L5DqGLwVl07C
